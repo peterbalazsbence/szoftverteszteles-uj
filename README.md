@@ -4,8 +4,8 @@ A `toRoman(number)` az 1–3999 közötti egész számokat alakítja át. Más b
 
 ## Futtatás és tesztelés
 
-Töltsd le a repót, és nyisd meg az `index.html` fájlt böngészőben. A 34 QUnit-teszt automatikusan lefut, az eredmény az oldalon látszik. A QUnit betöltéséhez internet kell.
+A projekt letöltése és kicsomagolása után az `index.html` böngészőben megnyitva futtatja a 34 QUnit-tesztet. Az eredmények az oldalon jelennek meg. A QUnit betöltéséhez internetkapcsolat szükséges.
 
-A függvény a megnyitott oldal böngészőkonzoljában külön is kipróbálható, pl. `toRoman(2026)` eredménye `MMXXVI`.
+A függvény a megnyitott oldal böngészőkonzoljában külön is meghívható. Például a `toRoman(2026)` eredménye `MMXXVI`.
 
-A TDD lépései a commitokban követhetők: először a sikertelen teszt, utána a hozzá tartozó megoldás. Az előzményeket a korábbi, közös gyakorlati repóból hoztam át.
+A TDD lépései a commitokban követhetők: először a sikertelen teszt, utána a hozzá tartozó megoldás. Az előzmények a korábbi, közös gyakorlati repozitóriumból származnak.
