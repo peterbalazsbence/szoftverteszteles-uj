@@ -1,4 +1,4 @@
-# Arab szám → római szám konverter
+# Arab szám > római szám konverter
 
 A `toRoman(number)` az 1–3999 közötti egész számokat alakítja át. Más bemenetre `RangeError` kivételt dob.
 
